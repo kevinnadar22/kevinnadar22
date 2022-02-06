@@ -21,4 +21,4 @@
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=kevinnadar22&show_icons=true&locale=en" alt="kevinnadar22" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnadar22&" alt="kevinnadar22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnadar22&" alt="kevinnadar22" /></p>
