@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="left">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A Tech enthusiast interested in Blockchain technology, Backend development, Automation, Machine Learning</h3>
 
 - 🌱 I’m currently learning **Python, MongoDB, Blockchain**
