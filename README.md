@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Kevin</h1>
-<h3>A Tech enthusiast interested in Blockchain technology, Backend development, Automation, Machine Learning</h3>
+<h1 align="left">Ayo, I'm Kevin</h1>
+<h3>A Tech nerd interested in Blockchain technology, Backend development, Automation, Machine Learning</h3>
 
 - 🌱 I’m currently learning **Python, MongoDB, Blockchain**
 
@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kevinnadar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinnadar22" height="30" width="40" /></a>
-<a href="https://instagram.com/kevinnadar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevinnadar22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
