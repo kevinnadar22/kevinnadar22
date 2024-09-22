@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kevinnadar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinnadar22" height="30" width="40" /></a>
+<a href="https://twitter.com/kvnt29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvnt29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +17,4 @@
 
 <br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kevinnadar22&show_icons=true&locale=en" alt="kevinnadar22" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnadar22&" alt="kevinnadar22" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="kevinnadar22" /></p>
