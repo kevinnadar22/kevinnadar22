@@ -1,7 +1,7 @@
 <h1 align="left">I'm Kevin</h1>
 <h3>A Tech nerd interested in Automation, Machine Learning</h3>
 
-- 🌱 I’m currently learning **Python, MongoDB**
+- 🌱 I’m currently learning **machine learning and statistics**
 
 - 📫 How to reach me **jesikamaraj@gmail.com**
 
