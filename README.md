@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kvnn22" height="40" width="50" />
   </a>
   <a href="https://mariakevin.in" target="blank" style="text-decoration: none; color: inherit;">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio" height="40" width="50" />
+    <img align="center" src="https://mariakevin.in/me.png" alt="portfolio" height="50" width="50" />
   </a>
 </p>
 
