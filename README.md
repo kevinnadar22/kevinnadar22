@@ -106,10 +106,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinnadar22&show_icons=true&theme=radical" alt="kvnn22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinnadar22&show_icons=true&theme=radical" alt="kevinnadar22" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnadar22&theme=radical" alt="kvnn22" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnadar22&theme=radical" alt="kevinnadar22" />
 </p>
 
