@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Full Stack Developer | AI Explorer</h3>
+<h3 align="center">Full Stack AI Developer | Tech Nerd</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinnadar22&label=Profile%20views&color=0e75b6&style=flat" alt="kvnn22" />
@@ -9,7 +9,7 @@
 
 ###  About Me
 
-- I'm currently learning **React** and exploring advanced **Machine Learning** techniques
+- I'm currently learning **Agentic AI** and exploring advanced **Deep Learning and Finetuning** techniques
 - Check out my portfolio: **[mariakevin.in](https://mariakevin.in)**
 - 📫 How to reach me: **jesikamaraj@gmail.com**
 
